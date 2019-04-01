@@ -48,7 +48,7 @@ class ViewController: UIViewController {
         label3.text = "0-60: \(dataSelect["0-60"]!) seconds"
         label4.text = "BHP: \(dataSelect["BHP"]!)"
         label5.text = "MPG: \(dataSelect["MPG"]!)"
-        label6.text = "Price: \(dataSelect["Price"]!)"
+        label6.text = "Prices: \(dataSelect["Price"]!)"
         
         
         
