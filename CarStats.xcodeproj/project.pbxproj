@@ -14,6 +14,7 @@
 		4012CAEA2251E92900053F7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4012CAE82251E92900053F7A /* LaunchScreen.storyboard */; };
 		4012CAF52251E92A00053F7A /* CarStatsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4012CAF42251E92A00053F7A /* CarStatsTests.swift */; };
 		4012CB002251E92A00053F7A /* CarStatsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4012CAFF2251E92A00053F7A /* CarStatsUITests.swift */; };
+		4012CB0E2251ED1600053F7A /* carList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4012CB0D2251ED1600053F7A /* carList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4012CAFB2251E92A00053F7A /* CarStatsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarStatsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4012CAFF2251E92A00053F7A /* CarStatsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarStatsUITests.swift; sourceTree = "<group>"; };
 		4012CB012251E92A00053F7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4012CB0D2251ED1600053F7A /* carList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = carList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4012CAE62251E92900053F7A /* Assets.xcassets */,
 				4012CAE82251E92900053F7A /* LaunchScreen.storyboard */,
 				4012CAEB2251E92900053F7A /* Info.plist */,
+				4012CB0D2251ED1600053F7A /* carList.plist */,
 			);
 			path = CarStats;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4012CAEA2251E92900053F7A /* LaunchScreen.storyboard in Resources */,
+				4012CB0E2251ED1600053F7A /* carList.plist in Resources */,
 				4012CAE72251E92900053F7A /* Assets.xcassets in Resources */,
 				4012CAE52251E92500053F7A /* Main.storyboard in Resources */,
 			);
